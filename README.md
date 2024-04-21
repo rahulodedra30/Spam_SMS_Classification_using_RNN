@@ -1,4 +1,4 @@
-# Spam-Classifier
+# Spam-SMS-Classifier
 
 ## Description
 - New Updates:
